@@ -1,3 +1,5 @@
+![gif](final_result1.gif)
+
 # Overview
 This repository contains all the code needed to complete the project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
@@ -87,7 +89,7 @@ Your job is to build out the methods in `particle_filter.cpp` until the simulato
 ```
 Success! Your particle filter passed!
 ```
-
+![Screenshot](Kidnapped_vehicle.PNG)
 # Implementing the Particle Filter
 The directory structure of this repository is as follows:
 
@@ -132,7 +134,7 @@ You can find the inputs to the particle filter in the `data` directory.
 ## Success Criteria
 If your particle filter passes the current grading code in the simulator (you can make sure you have the current version at any time by doing a `git pull`), then you should pass!
 
-![Screenshot](Kidnapped_vehicle.PNG)
+
 
 The things the grading code is looking for are:
 
